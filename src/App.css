@@ -1,0 +1,10 @@
+* {
+    margin: 0 auto;
+  }  
+
+.headerName {
+    font-size: 70px;
+    margin: 6%;
+    display: flex;
+  }
+  

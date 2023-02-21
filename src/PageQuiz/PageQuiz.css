@@ -1,0 +1,34 @@
+.questionBox {
+    width: 740px;
+    height: 600px;
+    background-color: rgb(113, 113, 233);
+    padding: 20px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.answerBox div {
+    width: 700px;
+    height: 70px;
+    color: black;
+    background-color: rgb(220, 222, 240);
+    margin-top: 10px;
+}
+
+.ask {
+    color: black;
+}
+
+.nextQuestionButton {
+    width: 150px;
+    height: 50px;
+    border: none;
+    margin: 20px 0px 20px 570px;
+    background-color: rgb(220, 222, 240);
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.527);
+}
+
+.nextQuestionButton:hover {
+    width: 160px;
+    height: 60px;
+    margin: 15px 0px -15px 560px; 
+}

@@ -1,0 +1,21 @@
+.flagButton button{
+    background-color: rgb(113, 113, 233);
+    width: 300px;
+    height: 100px;
+    color: black;
+    font-size: 40px;
+    border: none;
+    margin: 30px 0px 10px 5px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.flagButton {
+    margin-left: 20.5%;
+}
+
+.flagButton button:hover {
+    font-size: 45px;
+    width: 320px;
+    height: 120px;
+    margin: 20px 0px 0px -10px;
+}
